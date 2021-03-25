@@ -2,7 +2,7 @@
 - [Organization](threefold:collaboration)
   - [FreeFlow collaboration](threefold:peer2peer_collaboration)
     - [From stars to circles](threefold:stars_vs_spheres)
-    - [P2P awareness levels](threefold:p2p_awareness_level)
+    - [EDGE awareness levels](threefold:p2p_awareness_level)
     - [Be a FreeFlow Citizen](threefold:freeflow_citizen)
     - [Bonus pool](threefold:bonus_token_pool)
     - [Circles remuneration](threefold:circles_remuneration)
